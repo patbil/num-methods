@@ -90,7 +90,3 @@ num_methods/
 - Data format: space or newline separated x,y pairs
 - Most use Gaussian elimination for numerical stability
 - See individual README.md for method specifics
-
-## License
-
-Educational purposes
