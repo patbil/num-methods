@@ -78,7 +78,7 @@ num_methods/
 
 ## Typical Workflow
 
-1. **Approximation**: Use when you want best-fit polynomial (noisy data)
+1. **Approximation**: Use when you want best-fit polynomial
 2. **Interpolation**: Use when you need exact polynomial through points
 3. **Differentiation**: Estimate derivatives from tables
 4. **Integration**: Approximate area under curve
