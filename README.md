@@ -1,6 +1,6 @@
 # Numerical Methods Collection
 
-C++ implementations of classic numerical methods used in scientific computing and engineering.
+C++ implementations of classic numerical methods used in scientific computing and engineering, developed as part of the Numerical Methods course during my studies.
 
 ## Projects Overview
 
